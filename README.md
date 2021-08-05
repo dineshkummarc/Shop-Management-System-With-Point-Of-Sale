@@ -1,1 +1,1 @@
-# rms_pos
+It’s actually an innovative, simple and powerful management tool, designed and developed for you. It’s just your trusty employee. It’s a web based system where you can manage reparations, clients, inventory, purchases etc.
