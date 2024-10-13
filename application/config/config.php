@@ -24,7 +24,7 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 |
 */
 // $config['base_url'] = defined('BASE_URL') ? BASE_URL : '';
-$config['base_url'] = 'http://files.test';
+$config['base_url'] = 'http://localhost/Shop-Management-System-With-Point-Of-Sale/';
 
 /*
 |--------------------------------------------------------------------------
@@ -137,7 +137,7 @@ $config['subclass_prefix'] = 'MY_';
 | Note: This will NOT disable or override the CodeIgniter-specific
 |	autoloading (application/config/autoload.php)
 */
-$config['composer_autoload'] = FCPATH.'vendor/autoload.php';
+$config['composer_autoload'] = FCPATH . 'vendor/autoload.php';
 
 /*
 |--------------------------------------------------------------------------
@@ -316,7 +316,7 @@ $config['cache_query_string'] = FALSE;
 |
 */
 // $config['encryption_key'] = '';
-$config['encryption_key'] = '5gTrl8eBCmYw9JSExFiRHnvXOcjVAz6dPUtqI';
+$config['encryption_key'] = 'Kn10TEY23O7awohrWvjRLBf8UbpmMHuNGsQI5';
 
 /*
 |--------------------------------------------------------------------------
